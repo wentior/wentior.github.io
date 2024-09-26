@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://wentior.github.io/sitemap.wentior.gz
+Sitemap: https://wentior.github.io/app/sitemap.wentior.gz
+Sitemap: https://wentior.github.io/assets/sitemap.wentior.gz
+Sitemap: https://wentior.github.io/css/sitemap.wentior.gz
+Sitemap: https://wentior.github.io/data/sitemap.wentior.gz
+Sitemap: https://wentior.github.io/includes/sitemap.wentior.gz
+Sitemap: https://wentior.github.io/item/sitemap.wentior.gz
+Sitemap: https://wentior.github.io/src/sitemap.wentior.gz
